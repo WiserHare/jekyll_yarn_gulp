@@ -1,0 +1,19 @@
+{
+  "name": "jekyll_yarn_gulp",
+  "version": "0.0.1",
+  "description": "A sample application to automate dependeny management for Jekyll with Yarn and Gulp",
+  "main": "index.md",
+  "author": "Wiser Hare sprl/bvba",
+  "web": "http://www.wiserhare.be",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-npm-dist": "^0.1.6"
+  },
+  "dependencies": {
+    "bootstrap": "4.0.0-beta",
+    "font-awesome": "4.7.0",
+    "jquery": "3.2.1",
+    "popper.js": "^1.12.5"
+  }
+}
